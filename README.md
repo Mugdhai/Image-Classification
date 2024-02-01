@@ -1,4 +1,4 @@
 # Image-Classification
 ML and DS Project
 <br>
-Author-Mugdha Itake
+Author-Mugdha Itake(Student)
